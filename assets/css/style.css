@@ -605,6 +605,16 @@ a {
     }
 }
 
+@media (min-width:1400px) {
+    w100 {
+        width: 100%;
+    }
+
+    .pl {
+        padding-left: 48px;
+    }
+}
+
 @media (min-width:992px) {
     .pl-65 {
         padding-left: 65px;
